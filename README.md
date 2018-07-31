@@ -32,3 +32,5 @@ These were some helpful resources:
 - https://android.jlelse.eu/android-dtt-13-how-to-set-recyclerviews-layoutmanager-in-xml-and-why-you-shouldn-t-350da048a801
 - https://medium.com/@dbottillo/android-ui-test-espresso-matcher-for-imageview-1a28c832626f
 - https://medium.com/@SimonKaz/android-testing-setting-sharedprefs-before-launching-an-activity-558730506b7c
+- https://www.freepik.com/free-vectors/icons
+- https://stackoverflow.com/
