@@ -23,3 +23,12 @@ In this project you will:
 - Add a widget to your app experience.
 - Leverage a third-party library in your app.
 - Use Fragments to create a responsive design that works on phones and tablets.
+
+# Attributions
+These were some helpful resources:
+
+- https://www.youtube.com/watch?v=uCtzH0Rz5XU
+- https://medium.com/google-developers/tasks-and-the-back-stack-dbb7c3b0f6d4
+- https://android.jlelse.eu/android-dtt-13-how-to-set-recyclerviews-layoutmanager-in-xml-and-why-you-shouldn-t-350da048a801
+- https://medium.com/@dbottillo/android-ui-test-espresso-matcher-for-imageview-1a28c832626f
+- https://medium.com/@SimonKaz/android-testing-setting-sharedprefs-before-launching-an-activity-558730506b7c
